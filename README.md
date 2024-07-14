@@ -1,4 +1,5 @@
 CONVERSOR DE MOEDAS
+
 Este é um conversor de moedas simples desenvolvido em Java. O projeto utiliza a API da ExchangeRate-API para obter taxas de câmbio em tempo real e permite que o usuário converta valores entre diferentes moedas através do console.
 
 Funcionalidades
